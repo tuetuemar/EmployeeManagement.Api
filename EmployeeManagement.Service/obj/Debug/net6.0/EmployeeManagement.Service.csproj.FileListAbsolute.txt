@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Service\bin\Debug\net6.0\EmployeeManagement.Service.deps.json
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Service\bin\Debug\net6.0\EmployeeManagement.Service.runtimeconfig.json
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Service\bin\Debug\net6.0\EmployeeManagement.Service.dll
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Service\bin\Debug\net6.0\EmployeeManagement.Service.pdb
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Service\obj\Debug\net6.0\EmployeeManagement.Service.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Service\obj\Debug\net6.0\EmployeeManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Service\obj\Debug\net6.0\EmployeeManagement.Service.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Service\obj\Debug\net6.0\EmployeeManagement.Service.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Service\obj\Debug\net6.0\EmployeeManagement.Service.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Service\obj\Debug\net6.0\EmployeeManagement.Service.dll
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Service\obj\Debug\net6.0\refint\EmployeeManagement.Service.dll
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Service\obj\Debug\net6.0\EmployeeManagement.Service.pdb
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Service\obj\Debug\net6.0\EmployeeManagement.Service.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Service\obj\Debug\net6.0\ref\EmployeeManagement.Service.dll
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Service\bin\Debug\net6.0\EmployeeManagement.Domain.dll
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Service\bin\Debug\net6.0\EmployeeManagement.Domain.pdb
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Service\obj\Debug\net6.0\EmployeeManagement.Service.csproj.CopyComplete

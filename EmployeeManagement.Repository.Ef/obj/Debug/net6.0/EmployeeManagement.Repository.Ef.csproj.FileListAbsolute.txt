@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Repository.Ef\bin\Debug\net6.0\EmployeeManagement.Repository.Ef.deps.json
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Repository.Ef\bin\Debug\net6.0\EmployeeManagement.Repository.Ef.runtimeconfig.json
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Repository.Ef\bin\Debug\net6.0\EmployeeManagement.Repository.Ef.dll
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Repository.Ef\bin\Debug\net6.0\EmployeeManagement.Repository.Ef.pdb
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Repository.Ef\bin\Debug\net6.0\EmployeeManagement.Domain.dll
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Repository.Ef\bin\Debug\net6.0\EmployeeManagement.Domain.pdb
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Repository.Ef\obj\Debug\net6.0\EmployeeManagement.Repository.Ef.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Repository.Ef\obj\Debug\net6.0\EmployeeManagement.Repository.Ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Repository.Ef\obj\Debug\net6.0\EmployeeManagement.Repository.Ef.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Repository.Ef\obj\Debug\net6.0\EmployeeManagement.Repository.Ef.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Repository.Ef\obj\Debug\net6.0\EmployeeManagement.Repository.Ef.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Repository.Ef\obj\Debug\net6.0\EmployeeManagement.Repository.Ef.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Repository.Ef\obj\Debug\net6.0\EmployeeManagement.Repository.Ef.dll
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Repository.Ef\obj\Debug\net6.0\refint\EmployeeManagement.Repository.Ef.dll
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Repository.Ef\obj\Debug\net6.0\EmployeeManagement.Repository.Ef.pdb
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Repository.Ef\obj\Debug\net6.0\EmployeeManagement.Repository.Ef.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\EmployeeManagement.Api\EmployeeManagement.Repository.Ef\obj\Debug\net6.0\ref\EmployeeManagement.Repository.Ef.dll
